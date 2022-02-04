@@ -9,7 +9,9 @@ If you are instead primarily interested in using Git to fetch a project, for exa
 First, note that you can get documentation for a command such as git log --graph with:
 
 $ man git-log
-or:
+
+or: 
+
 
 $ git help log
 With the latter, you can use the manual viewer of your choice; see git-help[1] for more information.
