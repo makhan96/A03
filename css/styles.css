@@ -1,0 +1,76 @@
+/* DEVELOPER: Muhammad Khan, IS117-104, Spring 2022 */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+background-color: #000000;
+}
+
+h1, h2, h3, h4, h5, label { 
+    color: aliceblue;
+    
+}
+
+h1, h5{
+    text-align: center;
+}
+
+.container{
+    padding: 3% 15% 
+}
+
+.submission-form {
+    padding: 5% 20%
+}
+
+#title {
+    text-align:center;
+}
+
+#title-day {
+    text-align:center;
+}
+#live-movie-h1 {
+    text-align:center;
+}
+
+#all-movies {
+    text-align:center;
+}
+
+#categories {
+    text-align: center;
+}
+
+.card-title {
+    color: #000000;
+    
+}
+
+#footer {
+    color:aliceblue;
+}
+
+.container-2{
+    padding: 1% 1% 
+}
+
+.submission-form{
+    max-width: 60%;
+    margin: auto;
+}
+
+.submission-title {
+    text-align: center;
+    padding: 2%;
+}
+
+#img-live {
+  display: block;
+  
+  width: 50%;
+}
