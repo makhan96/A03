@@ -27,17 +27,17 @@ When the tool windows are hidden, you can access any of them via a shortcut - th
 Tutorial From https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_user_interface_overview
 
 # Part 2: Glossary
-- ** Branch ** : A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches
-- ** Clone ** 
-- ** Commit ** 
-- ** Fetch **
-- ** GIT ** 
-- ** Github **
-- ** Merge **
-- ** Merge Conflict **
-- ** Push **
-- ** Pull **
-- ** Remote **
-- ** Repository **
+- **Branch** : A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches
+- **Clone** 
+- **Commit** 
+- **Fetch**
+- **GIT** 
+- **Github**
+- **Merge**
+- **Merge Conflict**
+- **Push**
+- **Pull**
+- **Remote**
+- **Repository**
 
 
