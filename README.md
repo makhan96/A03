@@ -9,3 +9,8 @@ Once you have opened a folder in WebStorm, the .idea subfolder is added to it wh
 You can open, check out, and create projects from the WebStorm Welcome screen.
 
 
+##To create a new file in a project﻿
+In the Project tool window, select the folder where you want to create a new file and press Alt+Insert.
+
+Alternatively, choose New from the context menu of the selection and then choose the file type from the list:
+
