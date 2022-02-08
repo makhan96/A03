@@ -27,17 +27,17 @@ When the tool windows are hidden, you can access any of them via a shortcut - th
 Tutorial From https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_user_interface_overview
 
 # Part 2: Glossary
-- **Branch** : A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches
-- **Clone** 
-- **Commit** 
-- **Fetch**
-- **GIT** 
-- **Github**
-- **Merge**
-- **Merge Conflict**
-- **Push**
-- **Pull**
-- **Remote**
-- **Repository**
+- **Branch**: A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches
+- **Clone**: When you clone a repository, you copy the repository from GitHub.com to your local machine.
+- **Commit**: A commit, or "revision", is an individual change to a file (or set of files).
+- **Fetch**: The git fetch command downloads commits, files, and refs from a remote repository into your local repo.
+- **GIT**: Git is the free and open source distributed version control system that's responsible for everything GitHub related that happens locally on your computer.
+- **Github**: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+- **Merge**: Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+- **Merge Conflict**: Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. Git can often resolve differences between branches and merge them automatically.
+- **Push**: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
+- **Pull**: Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+- **Remote**: A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast to a local repository, a remote typically does not provide a file tree of the project's current state.
+- **Repository**: A software repository, or “repo” for short, is a storage location for software packages. Often a table of contents is also stored, along with metadata. A software repository is typically managed by source control or repository managers.
 
 
